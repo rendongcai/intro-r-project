@@ -34,3 +34,5 @@ mySum <- function(v){
 # {} ---- control flow
 # duck programming
 # speech convertion
+
+
